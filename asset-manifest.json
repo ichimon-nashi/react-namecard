@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-namecard/static/css/main.1c666549.css",
+    "main.js": "/react-namecard/static/js/main.b9deda87.js",
+    "static/media/profile_pic.jpg": "/react-namecard/static/media/profile_pic.2cfcc4813d19a9e7cc67.jpg",
+    "static/media/github-icon.png": "/react-namecard/static/media/github-icon.7acde23236a5c7507398.png",
+    "index.html": "/react-namecard/index.html",
+    "main.1c666549.css.map": "/react-namecard/static/css/main.1c666549.css.map",
+    "main.b9deda87.js.map": "/react-namecard/static/js/main.b9deda87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c666549.css",
+    "static/js/main.b9deda87.js"
+  ]
+}
